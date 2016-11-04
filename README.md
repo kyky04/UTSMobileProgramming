@@ -14,4 +14,4 @@ ScreenShoot
 ![alt tag](https://cloud.githubusercontent.com/assets/20360044/19996850/12398000-a295-11e6-9cd0-a599197e520c.PNG)
 
 ###FinishActivity
-![alt tag](https://cloud.githubusercontent.com/assets/20360044/19997275/dd1e3480-a297-11e6-8838-50213957f025.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/20360044/19997486/795d06f4-a299-11e6-83ee-5beb7fe914b0.PNG)
